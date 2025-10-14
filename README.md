@@ -1,4 +1,4 @@
-digital-portfolio
+igital-portfolio
 
 Iron Saga Term 3 Assessment
 
