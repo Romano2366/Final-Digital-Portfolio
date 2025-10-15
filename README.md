@@ -1,82 +1,93 @@
-igital-portfolio
+# digital-portfolio
+GitHub Portfolio June Assessment
 
-Iron Saga Term 3 Assessment
+---
+# Proof of completion
+![image](https://github.com/user-attachments/assets/0b8a9e18-8f88-4c28-8345-532749d9a0bc)
+![image](https://github.com/user-attachments/assets/cd41de8a-7631-4f1d-ba1f-84dc3e9d6adf)
 
-Proof of completion
 
+# CAREER COUNSELLING
+![image](https://github.com/user-attachments/assets/18b4fe16-0b17-40a4-9cd8-d19a5d0e2f1f)
 
+**S - Situation:**  
+I participated in the Career Counselling activity as part of the Work Readiness training program.
 
+**T - Task:**  
+The goal was to evaluate my understanding of the importance of goal setting, career planning, and personal growth in career development.
 
-BUSINESS COMMUNICATION
+**A - Action:**  
+I completed the online activity by answering various questions related to career planning, development, and counselling. I paid attention to concepts discussed during training, such as identifying hard and soft skills, and the value of setting clear career goals.
 
-S - Situation:
-During Term 3, I needed to communicate updates and challenges regarding the Iron Saga website to my lecturer and project team.
+**R - Result:**  
+I scored 80%, which shows I have a solid foundation in career counselling concepts. The reflection helped me identify areas I can still strengthen, such as goal setting and evaluating skillsets accurately for specific career paths.
 
-T - Task:
-The goal was to ensure all stakeholders understood the project progress, technical issues, and proposed solutions.
+---
 
-A - Action:
-I drafted structured emails and reports, including screenshots of the website, clearly explained issues, and proposed solutions. I followed up for clarification when necessary.
+# SKILLS AND INTERESTS
+![image](https://github.com/user-attachments/assets/580f604b-4214-41d2-97ee-0d72beaad71c)
 
-R - Result:
-The communication ensured everyone was aligned, preventing misunderstandings and allowing smooth progress on the project. I improved my professional written communication skills.
+**S - Situation:**   
+As part of the work readiness program, I completed an activity identifying my current skills and interests.
 
-INTERVIEW SKILLS
+**T - Task:**  
+I had to evaluate what I am good at, what I enjoy, and how these align with my future career aspirations.
 
-S - Situation:
-I participated in a practice interview as part of the work readiness program to prepare for real-world job interviews.
+**A - Action:**   
+I answered questions that helped me reflect on my strengths, hobbies, and things I am passionate about. I made a list of my key technical and soft skills, and matched them to industries I may want to explore.
 
-T - Task:
-My task was to prepare for questions about teamwork, problem-solving, and technical skills, especially related to website development.
+**R - Result:** 
+I discovered a better alignment between my interests and potential career paths. It gave me clarity on what areas to develop further, and how my interests can shape my career direction.
 
-A - Action:
-I rehearsed answers using the STAR method, recorded my responses, and reviewed areas for improvement in clarity, confidence, and delivery.
+---
 
-R - Result:
-I gained confidence in answering behavioral and technical questions, learned how to structure answers professionally, and identified areas for ongoing improvement.
+# PERSONALITY ASSESSMENT
+![image](https://github.com/user-attachments/assets/437df00d-349b-4034-945b-2eddbe1bbf2f)
 
-MOCK INTERVIEW
+**S - Situation:**    
+I completed a personality assessment to understand how my traits impact my work and communication style. I submitted it a bit late unfortunately. 
 
-S - Situation:
-I completed a mock interview designed to simulate a real job interview environment.
+**T - Task:**   
+The task was to identify my dominant personality type and how it can influence career choices and team dynamics.
 
-T - Task:
-The task was to demonstrate interview readiness, professionalism, and clear articulation of my skills and experiences.
+**A - Action:** 
+I answered a series of questions that assessed my behaviours, preferences, and tendencies in various scenarios, both personal and professional.
 
-A - Action:
-I answered questions using examples from the Iron Saga project, applied the STAR method, maintained professional body language, and asked thoughtful questions at the end of the session.
+**R - Result:**   
+The results gave me deeper insight into my strengths and weaknesses. It helped me realize how I can communicate better and work more effectively with others, especially in team-based environments.
 
-R - Result:
-The mock interview provided constructive feedback, increased my confidence, and helped me understand areas to refine for real interviews.
+---
 
-PROFESSIONAL NETWORKING
+# CREATE A CV
+![image](https://github.com/user-attachments/assets/a1f6de73-05ef-4472-9f20-5c89bc51eaab)
 
-S - Situation:
-As part of the program, I engaged in professional networking to build contacts and learn from industry professionals.
+**S - Situation:**    
+I was instructed to create a professional CV based on my academic background, skills, and experience.
 
-T - Task:
-My task was to establish meaningful connections, seek guidance, and learn about professional communication online and in-person.
+**T - Task:** 
+The goal was to draft a clear and compelling CV that could be used in real-world job applications.
 
-A - Action:
-I created a LinkedIn profile (or updated it), connected with relevant professionals, participated in online discussions, and attended a networking session where possible.
+**A - Action:**  
+I structured my CV to include relevant details such as personal information, educational qualifications, key skills, and career objectives. I ensured the formatting was clean and professional.
 
-R - Result:
-I expanded my professional network, improved communication skills in professional settings, and gained insight into industry practices.
+**R - Result:**
+I now have a working CV that I can tailor for specific job opportunities. It represents my capabilities well and serves as a strong foundation for my future job applications.
 
-WORKPLACE ETIQUETTE
+---
 
-S - Situation:
-During the Iron Saga project, I collaborated with team members to ensure the website development stayed on track.
+# CV SUBMISSION
+![image](https://github.com/user-attachments/assets/11c50b74-b646-48b4-bcb8-aaeed1095fb7)
 
-T - Task:
-I had to demonstrate proper workplace etiquette, including punctuality, respect, communication, and responsibility within the team.
+**S - Situation:**    
+After creating my CV, I submitted it through the designated platform as required by the assessment.
 
-A - Action:
-I attended all team meetings on time, communicated respectfully, shared updates and feedback, and adhered to deadlines for assigned tasks.
+**T - Task:** 
+The task was to upload my final CV document for evaluation, ensuring it met the formatting and content requirements.
 
-R - Result:
-I strengthened my understanding of professional behavior in the workplace, improved teamwork skills, and contributed positively to the project’s success.
+**A - Action:**  
+I double-checked the document for errors, confirmed that it included all the necessary sections, and uploaded it to the correct location before the deadline.
 
-Conclusion
+**R - Result:**
+Successfully submitting the CV gave me confidence in handling real job application processes. It reinforced my understanding of professional document preparation and submission procedures.
 
-This portfolio reflects my learning and growth in work readiness skills throughout Term 3. By compiling evidence and reflecting through the STAR method, I have demonstrated improvement in communication, interviews, networking, and professional etiquette. These skills will support my future career development and employability.
+---
