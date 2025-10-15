@@ -1,93 +1,105 @@
-# Final-Digital-Portfolio
-GitHub Portfolio October Assessment
-
----
-# Proof of completion
-![image](https://github.com/user-attachments/assets/0b8a9e18-8f88-4c28-8345-532749d9a0bc)
-![image](https://github.com/user-attachments/assets/cd41de8a-7631-4f1d-ba1f-84dc3e9d6adf)
-
-
-# CAREER COUNSELLING
-![image](https://github.com/user-attachments/assets/18b4fe16-0b17-40a4-9cd8-d19a5d0e2f1f)
-
-**S - Situation:**  
-I participated in the Career Counselling activity as part of the Work Readiness training program.
-
-**T - Task:**  
-The goal was to evaluate my understanding of the importance of goal setting, career planning, and personal growth in career development.
-
-**A - Action:**  
-I completed the online activity by answering various questions related to career planning, development, and counselling. I paid attention to concepts discussed during training, such as identifying hard and soft skills, and the value of setting clear career goals.
-
-**R - Result:**  
-I scored 80%, which shows I have a solid foundation in career counselling concepts. The reflection helped me identify areas I can still strengthen, such as goal setting and evaluating skillsets accurately for specific career paths.
+# 📁 Final Digital Portfolio  
+**GitHub Portfolio – October Assessment**
 
 ---
 
-# SKILLS AND INTERESTS
-![image](https://github.com/user-attachments/assets/580f604b-4214-41d2-97ee-0d72beaad71c)
+## ✅ Proof of Completion
 
-**S - Situation:**   
-As part of the work readiness program, I completed an activity identifying my current skills and interests.
-
-**T - Task:**  
-I had to evaluate what I am good at, what I enjoy, and how these align with my future career aspirations.
-
-**A - Action:**   
-I answered questions that helped me reflect on my strengths, hobbies, and things I am passionate about. I made a list of my key technical and soft skills, and matched them to industries I may want to explore.
-
-**R - Result:** 
-I discovered a better alignment between my interests and potential career paths. It gave me clarity on what areas to develop further, and how my interests can shape my career direction.
+<img width="876" height="134" alt="Proof of completion(1)" src="https://github.com/user-attachments/assets/e5d4946d-3f53-4edd-a89e-3c8b8e27da97" />
+<img width="890" height="237" alt="Proof of completion(2)" src="https://github.com/user-attachments/assets/78937901-3663-4706-9ac4-bd247d69a6fd" />
+<img width="836" height="121" alt="Proof of completion(3)" src="https://github.com/user-attachments/assets/917a909a-a715-472e-b8ed-d6eb88c12e1f" />
+<img width="800" height="53" alt="Mock interview" src="https://github.com/user-attachments/assets/2ebba122-c27e-4329-bf09-8fa596852058" />
 
 ---
 
-# PERSONALITY ASSESSMENT
-![image](https://github.com/user-attachments/assets/437df00d-349b-4034-945b-2eddbe1bbf2f)
+## 🗣️ Business Communication
 
-**S - Situation:**    
-I completed a personality assessment to understand how my traits impact my work and communication style. I submitted it a bit late unfortunately. 
+<img width="844" height="389" alt="Business Communication" src="https://github.com/user-attachments/assets/778b3ee2-850f-43ab-9f27-0f3e5b08d822" />
 
-**T - Task:**   
-The task was to identify my dominant personality type and how it can influence career choices and team dynamics.
+**S – Situation:**  
+During the development of the Iron Saga website project, I had to communicate key updates, issues, and proposed solutions to my lecturer and team.
 
-**A - Action:** 
-I answered a series of questions that assessed my behaviours, preferences, and tendencies in various scenarios, both personal and professional.
+**T – Task:**  
+My task was to ensure all technical progress, design changes, and challenges were communicated clearly and professionally, so everyone stayed informed.
 
-**R - Result:**   
-The results gave me deeper insight into my strengths and weaknesses. It helped me realize how I can communicate better and work more effectively with others, especially in team-based environments.
+**A – Action:**  
+I sent structured emails and messages with clear explanations and screenshots of my work. I summarized technical problems, outlined next steps, and followed up to make sure my communication was understood.
 
----
-
-# CREATE A CV
-![image](https://github.com/user-attachments/assets/a1f6de73-05ef-4472-9f20-5c89bc51eaab)
-
-**S - Situation:**    
-I was instructed to create a professional CV based on my academic background, skills, and experience.
-
-**T - Task:** 
-The goal was to draft a clear and compelling CV that could be used in real-world job applications.
-
-**A - Action:**  
-I structured my CV to include relevant details such as personal information, educational qualifications, key skills, and career objectives. I ensured the formatting was clean and professional.
-
-**R - Result:**
-I now have a working CV that I can tailor for specific job opportunities. It represents my capabilities well and serves as a strong foundation for my future job applications.
+**R – Result:**  
+This improved our workflow and reduced misunderstandings. I developed stronger professional writing and communication skills, which are essential for the workplace.
 
 ---
 
-# CV SUBMISSION
-![image](https://github.com/user-attachments/assets/11c50b74-b646-48b4-bcb8-aaeed1095fb7)
+## 🎤 Interview Skills
 
-**S - Situation:**    
-After creating my CV, I submitted it through the designated platform as required by the assessment.
+<img width="842" height="384" alt="Interview Skills" src="https://github.com/user-attachments/assets/8a4afddc-3cd0-4ae4-9439-251a4e9ece66" />
 
-**T - Task:** 
-The task was to upload my final CV document for evaluation, ensuring it met the formatting and content requirements.
+**S – Situation:**  
+As part of work readiness training, I participated in activities to strengthen my interview skills for future job opportunities in tech.
 
-**A - Action:**  
-I double-checked the document for errors, confirmed that it included all the necessary sections, and uploaded it to the correct location before the deadline.
+**T – Task:**  
+I needed to prepare for common behavioral and technical interview questions and learn to structure my answers professionally.
 
-**R - Result:**
-Successfully submitting the CV gave me confidence in handling real job application processes. It reinforced my understanding of professional document preparation and submission procedures.
+**A – Action:**  
+I practiced answering questions using the STAR technique. I focused on clear articulation, keeping my answers structured, and highlighting relevant skills and experience from the Iron Saga project.
+
+**R – Result:**  
+I became more confident in structuring interview answers, identifying strengths, and communicating my value effectively in professional scenarios.
 
 ---
+
+## 🧑‍💻 Mock Interview
+
+<img width="800" height="53" alt="Mock interview" src="https://github.com/user-attachments/assets/80464549-5a1c-480d-982b-1d11ea11d06f" />
+
+**S – Situation:**  
+I took part in a mock interview session to simulate a real job interview experience.
+
+**T – Task:**  
+My goal was to demonstrate my ability to respond confidently to interview questions, communicate clearly, and apply interview techniques.
+
+**A – Action:**  
+I prepared in advance by reviewing common questions, practiced active listening, and maintained professional body language and tone throughout the session.
+
+**R – Result:**  
+The mock interview gave me useful feedback on where I can improve and helped me gain confidence. I learned how to answer under pressure and stay structured in my responses.
+
+---
+
+## 🌐 Professional Networking
+
+<img width="844" height="386" alt="Professional Networking" src="https://github.com/user-attachments/assets/d2760d39-1cff-4212-9446-16d0fe17f0bb" />
+
+**S – Situation:**  
+To build my professional presence, I engaged with career-related platforms and networks as part of the work readiness program.
+
+**T – Task:**  
+My task was to create or update my professional profile, connect with industry contacts, and showcase my Iron Saga project work.
+
+**A – Action:**  
+I updated my LinkedIn profile, added relevant skills, and engaged with peers and industry-related content. I made sure my professional branding reflected my interests in web development and tech.
+
+**R – Result:**  
+This helped me expand my network and increased my visibility to potential employers. I now understand the value of maintaining a professional online presence.
+
+---
+
+## 🏢 Workplace Etiquette
+
+<img width="826" height="400" alt="Workplace Etiquette" src="https://github.com/user-attachments/assets/60ab7cf6-a8fa-4714-b734-e44ead04a23e" />
+
+**S – Situation:**  
+Throughout the Iron Saga project, I was expected to act professionally in meetings, follow deadlines, and communicate appropriately.
+
+**T – Task:**  
+I needed to demonstrate workplace etiquette, such as respect, time management, professional communication, and accountability.
+
+**A – Action:**  
+I joined scheduled meetings on time, kept my communication clear and respectful, and submitted my work before deadlines. I also practiced proper email etiquette when reporting issues.
+
+**R – Result:**  
+I improved my professionalism, teamwork skills, and reliability — qualities essential for the workplace. This experience gave me a better understanding of expectations in a professional environment.
+
+---
+
+✅ **End of Digital Portfolio – October Assessment**
