@@ -1,5 +1,5 @@
-# digital-portfolio
-GitHub Portfolio June Assessment
+# Final-Digital-Portfolio
+GitHub Portfolio October Assessment
 
 ---
 # Proof of completion
