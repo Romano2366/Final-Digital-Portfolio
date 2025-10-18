@@ -3,7 +3,7 @@
 
 ---
 
-## ✅ Proof of Completion
+## Proof of Completion
 
 <img width="876" height="134" alt="Proof of completion(1)" src="https://github.com/user-attachments/assets/e5d4946d-3f53-4edd-a89e-3c8b8e27da97" />
 <img width="890" height="237" alt="Proof of completion(2)" src="https://github.com/user-attachments/assets/78937901-3663-4706-9ac4-bd247d69a6fd" />
